@@ -14,4 +14,4 @@ export default function initAccordion(){
       item.addEventListener('click', activeAccordion);
     });
   }
-  }
+}
